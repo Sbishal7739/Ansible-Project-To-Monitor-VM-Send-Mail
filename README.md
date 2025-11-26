@@ -33,9 +33,8 @@ ansible-playbook send_report.yaml
 [screenshots/Screenshot from 2025-11-26 21-14-46.png](https://github.com/Sbishal7739/Ansible-Project-To-Monitor-VM-Send-Mail/blob/2ce597ca9001ff10e3b6504a9fd3c3f82ff477c9/screenshots/Screenshot%20from%202025-11-26%2021-14-46.png)
 
 ### Ansible Execution Output
-![Ansible Output]
 
-[https://github.com/Sbishal7739/Ansible-Project-To-Monitor-VM-Send-Mail/blob/eedb670a318aff99bcb16d17a2f650ba3289535e/screenshots/Screenshot%20from%202025-11-26%2021-15-30.png](https://github.com/Sbishal7739/Ansible-Project-To-Monitor-VM-Send-Mail/blob/eedb670a318aff99bcb16d17a2f650ba3289535e/screenshots/Screenshot%20from%202025-11-26%2021-15-30.png)
+![Ansible Output Email]({{ [screenshots/Screenshot from 2025-11-26 21-15-30.png](https://github.com/Sbishal7739/Ansible-Project-To-Monitor-VM-Send-Mail/blob/main/screenshots/Screenshot%20from%202025-11-26%2021-15-30.png) }})
 
 ### AWS EC2 Instances
 ![AWS EC2 Instances]
