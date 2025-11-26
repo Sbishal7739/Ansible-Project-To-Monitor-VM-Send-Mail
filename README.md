@@ -22,12 +22,15 @@ Ansible • AWS EC2 • Linux
 ansible-playbook collect_metrics.yaml
 ansible-playbook send_report.yaml
 
+```
 ---
 
 ## 📸 Project Demo
 
 ### VM Health Report Email
-![VM Report](https://github.com/Sbishal7739/Ansible-Project-To-Monitor-VM-Send-Mail/raw/main/screenshots/screenshot.png)
+![VM Report]
+
+[screenshots/Screenshot from 2025-11-26 21-14-46.png](https://github.com/Sbishal7739/Ansible-Project-To-Monitor-VM-Send-Mail/blob/2ce597ca9001ff10e3b6504a9fd3c3f82ff477c9/screenshots/Screenshot%20from%202025-11-26%2021-14-46.png)
 
 ### Ansible Execution Output
 ![Ansible Output](screenshots/ansible-output.png)
