@@ -27,7 +27,8 @@ ansible-playbook send_report.yaml
 ## 📸 Project Demo
 
 ### VM Health Report Email
-![VM Report](screenshots/vm-report-email.png)
+![VM Report]<img width="1917" height="916" alt="Screenshot from 2025-11-26 21-14-46" src="https://github.com/user-attachments/assets/868f52d2-0bc1-4a39-a644-a470a2403393" />
+
 
 ### Ansible Execution Output
 ![Ansible Output](screenshots/ansible-output.png)
