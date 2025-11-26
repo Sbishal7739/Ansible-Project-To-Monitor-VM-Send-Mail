@@ -1,0 +1,6 @@
+smtp_server: "smtp.gmail.com"
+smtp_port: 587
+email_user: "sbishal7740@gmail.com"
+email_pass: "txln xgyv lzwp xjfd"
+alert_recipient: "sbishal7741@gmail.com"
+
