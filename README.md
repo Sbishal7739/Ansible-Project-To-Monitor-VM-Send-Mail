@@ -27,7 +27,9 @@ ansible-playbook send_report.yaml
 ## 📸 Project Demo
 
 ### VM Health Report Email
-![VM Report] https://github.com/Sbishal7739/Ansible-Project-To-Monitor-VM-Send-Mail/blob/main/screenshots/Screenshot%20from%202025-11-26%2021-14-46.png
+![VM Report]
+
+https://github.com/Sbishal7739/Ansible-Project-To-Monitor-VM-Send-Mail/blob/main/screenshots/Screenshot%20from%202025-11-26%2021-14-46.png
 
 
 ### Ansible Execution Output
